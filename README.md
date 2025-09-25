@@ -13,4 +13,4 @@ The books are stored **in memory** (no database required).
 - Express.js
 - Postman (for API testing)
 - VS Code (editor)
-![Image Alt](https://github.com/TapasRanjanMahanta/Elevate-Labs_03/blob/main/rest%20api.jpg?raw=true)
+![Image Alt](https://github.com/TapasRanjanMahanta/Elevate-Labs_03/blob/main/rest_api.jpg?raw=true)
